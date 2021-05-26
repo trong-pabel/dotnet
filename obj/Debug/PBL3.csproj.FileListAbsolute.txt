@@ -1,0 +1,16 @@
+E:\PBL3\PBL3\PBL3\PBL3\bin\Debug\PBL3.exe.config
+E:\PBL3\PBL3\PBL3\PBL3\bin\Debug\PBL3.exe
+E:\PBL3\PBL3\PBL3\PBL3\bin\Debug\PBL3.pdb
+E:\PBL3\PBL3\PBL3\PBL3\obj\Debug\PBL3.csprojAssemblyReference.cache
+E:\PBL3\PBL3\PBL3\PBL3\obj\Debug\PBL3.Form1.resources
+E:\PBL3\PBL3\PBL3\PBL3\obj\Debug\PBL3.Form2.resources
+E:\PBL3\PBL3\PBL3\PBL3\obj\Debug\PBL3.Form3.resources
+E:\PBL3\PBL3\PBL3\PBL3\obj\Debug\PBL3.Form4.resources
+E:\PBL3\PBL3\PBL3\PBL3\obj\Debug\PBL3.Form5.resources
+E:\PBL3\PBL3\PBL3\PBL3\obj\Debug\PBL3.Form6.resources
+E:\PBL3\PBL3\PBL3\PBL3\obj\Debug\PBL3.Form7.resources
+E:\PBL3\PBL3\PBL3\PBL3\obj\Debug\PBL3.Properties.Resources.resources
+E:\PBL3\PBL3\PBL3\PBL3\obj\Debug\PBL3.csproj.GenerateResource.cache
+E:\PBL3\PBL3\PBL3\PBL3\obj\Debug\PBL3.csproj.CoreCompileInputs.cache
+E:\PBL3\PBL3\PBL3\PBL3\obj\Debug\PBL3.exe
+E:\PBL3\PBL3\PBL3\PBL3\obj\Debug\PBL3.pdb
